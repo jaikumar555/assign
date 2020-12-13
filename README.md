@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+----This App is regarding how to create flowchart by drag and adding and conecting the blocks with each other-----
+
+We have use Fragment to return multiple elements.
+Renderering  function that returns a React element 
+useState inport the hook from react 
+componentes and props
+ const Cat = () => {};. You can think of components as blueprints. Whatever a function component returns is rendered as a React element. React .
+ onConnect={onConnect}. onLoad={onLoad}.
+ React Component For Mindnode Maps. A React component for MindNode maps (or other mindmaps). Installation: npm install react
+ button onclick event 
+initialElements Rendering Elements, we have only learned one way to update the UI
